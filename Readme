@@ -1,0 +1,19 @@
+ 
+Run
+# python main.py
+
+New Dataset
+# Add new dataset from main.
+
+Hyperparameter initialization.
+# parameter Edit in parameter_intialized.py file.
+
+Classification
+# Works for binary Classification.
+
+Demo
+# synthetic dataset with 2 input used For training and tested  Demo. 
+
+Tested on
+# Tested on multiple datasets LIVER, Inosphere, WBC, PIMA.
+
